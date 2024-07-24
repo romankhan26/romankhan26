@@ -19,7 +19,7 @@
     </div>
     <div>
 <h2>📫 How to Reach Me:</h2>
-<h3>Feel free to connect with me on my <a href="https://www.linkedin.com/in/roman-khan-025877316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn profile</a> or drop me an <a href="mailto:romankhan.26@outlook.com">Email</a></br/></h3>
+<h3>Feel free to connect with me on <a href="https://www.linkedin.com/in/roman-khan-025877316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a> or drop me an <a href="mailto:romankhan.26@outlook.com">Email</a></br/></h3>
         </div>
     <div>
 <h2>😄 Pronouns:</h2> 
